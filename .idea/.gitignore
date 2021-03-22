@@ -1,6 +1,5 @@
 # Default ignored files
-/shelf/
-/workspace.xml
+workspace.xml
 hello-word.iml
 misc.xml
 modules.xml
